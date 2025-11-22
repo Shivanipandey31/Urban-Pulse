@@ -5,7 +5,7 @@ import os
 
 options={
    'model':'./cfg/yolo.cfg',        #specifying the path of model
-   'load':'./bin/yolov2.weights',   #weights
+   'load':'./bin/yolov2.weights',   #weights 
    'threshold':0.3                  #minimum confidence factor to create a box, greater than 0.3 good
 }
 
